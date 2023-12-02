@@ -1,6 +1,4 @@
-Implementation of [Bootstrap Icons](https://icons.getbootstrap.com) as Laravel components. 
-
-Icon view components based on Boostrap 5 icons. 
+Implementation of [Bootstrap Icons](https://icons.getbootstrap.com) as Laravel components. Add beautiful icons to your Laravel projects with customizable colors, sizes and classes. 
 
 ## Installation
 
