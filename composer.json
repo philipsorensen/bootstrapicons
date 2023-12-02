@@ -1,9 +1,9 @@
 {
-    "name": "philipsorensen/iconcomponents",
-    "description": "View components for forms in Laravel",
+    "name": "philipsorensen/bootstrapicons",
+    "description": "Bootstrap Icons as components for Laravel projects",
     "autoload": {
         "psr-4": {
-            "PhilipSorensen\\IconComponents\\": "src/"
+            "PhilipSorensen\\BootstrapIcons\\": "src/"
         }
     },
     "authors": [
