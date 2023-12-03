@@ -1,6 +1,6 @@
 <?php
 
-namespace PhilipSorensen\IconComponents\View\Components;
+namespace PhilipSorensen\BootstrapIcons\View\Components;
 
 use Closure;
 use Illuminate\Contracts\View\View;
@@ -23,6 +23,6 @@ class Icon extends Component
      */
     public function render(): View|Closure|string
     {
-        return view('iconcomponents::components.' . $this->icon);
+        return view('bootstrapicons::components.' . $this->icon);
     }
 }
