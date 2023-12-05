@@ -4,11 +4,7 @@ Implementation of [Bootstrap Icons](https://icons.getbootstrap.com) as Laravel c
 
 > composer require philipsorensen/bootstrapicons
 
-Add the following in your `config/app.php` under providers. 
-
-```
-PhilipSorensen\BootstrapIcons\Providers\BootstrapIconsProvider::class
-```
+The package is configured for discovery, so Laravel will automatically register it and you can start using it. 
 
 ## Usage
 Here are some examples of how to use it: 
