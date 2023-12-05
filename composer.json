@@ -15,5 +15,12 @@
     ],
 	"license": "MIT",
     "minimum-stability": "stable",
-    "require": {}
+    "require": {},
+	"extra": {
+		"laravel": {
+			"providers": [
+				"PhilipSorensen\\BootstrapIcons\\Providers\\BootstrapIconsProvider"
+			]
+		}
+	}
 }
