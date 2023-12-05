@@ -14,6 +14,7 @@ class BootstrapIconsProvider extends ServiceProvider
 	 */
 	public function boot()
 	{
+		$this->loadViewsFrom(__DIR__.'/../resources/views', 'bi');
 		$this->loadViewsFrom(__DIR__.'/../resources/views', 'bootstrapicons');
 		Blade::componentNamespace('PhilipSorensen\\BootstrapIcons\\View\\Components', 'bootstrapicons');
 	}

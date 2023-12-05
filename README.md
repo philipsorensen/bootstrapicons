@@ -16,3 +16,7 @@ Here are some examples of how to use it:
 > <x-bootstrapicons::trash />
 
 > <x-bootstrapicons::trash class="me-2" color="red" size="40" />
+
+There is also a shorthand version available: 
+
+> <x-bi::trash />
