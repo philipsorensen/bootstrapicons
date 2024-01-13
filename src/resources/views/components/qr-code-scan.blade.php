@@ -10,4 +10,4 @@
 	<path d="M7 9H2v5h5zm-4 1h3v3H3zm8-6h1v1h-1z"/>
 	<path d="M9 2h5v5H9zm1 1v3h3V3zM8 8v2h1v1H8v1h2v-2h1v2h1v-1h2v-1h-3V8zm2 2H9V9h1zm4 2h-1v1h-2v1h3zm-4 2v-1H8v1z"/>
 	<path d="M12 9h2V8h-2z"/>
-</svg> 
+</svg>
